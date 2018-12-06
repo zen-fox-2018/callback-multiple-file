@@ -9,6 +9,7 @@
   "author": "Windiana",
   "license": "ISC",
   "dependencies": {
+    "package.json": "^2.0.1",
     "sleep": "^5.1.1"
   }
 }
