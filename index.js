@@ -20,7 +20,7 @@ function match_data(parent_file, children_file) {
         parentData[i].children = []
         for(let j = 0 ; j < childrenData.length; j++){
           if(childrenData[j].family == parentData[i].last_name){
-            parentData[i].children.push(childrenData[j])
+            parentData[i].children.push(childrenData[j].full_name)
           }
         }
         result.push(parentData[i])
