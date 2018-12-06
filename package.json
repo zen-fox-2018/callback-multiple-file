@@ -1,7 +1,6 @@
 {
   "name": "callback_readfile",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,5 +9,15 @@
   "license": "ISC",
   "dependencies": {
     "sleep": "^5.1.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zen-fox-2018/callback-multiple-file.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/zen-fox-2018/callback-multiple-file/issues"
+  },
+  "homepage": "https://github.com/zen-fox-2018/callback-multiple-file#readme",
+  "description": ""
 }
